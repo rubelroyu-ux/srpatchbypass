@@ -1,9 +1,9 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "latestVersionCode": 2,
   "latestVersionName": "1.1",
   "title": "UPDATE AVAILABLE",
   "message": "Your version has expired. Please download the new update to unlock exciting new features! ",
   "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/+Dz46E1ijcaoyYzM1"
+  "UpdateButtonUrl": "https://t.me/+WO6Dlgtjuig1ZDVl"
 }
